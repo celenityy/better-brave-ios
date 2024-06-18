@@ -40,6 +40,7 @@ Content Filtering:
 
 * `Bypass Paywalls Clean Filters` -> ✅
 
+<br>
 
 Privacy Hub -> **Show VPN Alerts** -> ❌
 
