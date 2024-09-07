@@ -2,9 +2,9 @@
 
 My recommendations for the ultimate configuration of the Brave Browser on iOS :)
 
-**NOTE:** This is specifically tailored for Brave on iOS. For Desktop, see [here](https://codeberg.org/Magnesium1062/better-brave), and for Android, see [here](https://codeberg.org/Magnesium1062/better-brave-android).
+**NOTE:** This is specifically tailored for Brave on iOS. For Desktop, see [here](https://codeberg.org/celenity/better-brave), and for Android, see [here](https://codeberg.org/celenity/better-brave-android).
 
-**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/better-brave-ios), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/better-brave-ios).
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/celenity/better-brave-ios), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/celenityy/better-brave-ios).
 
 # Shields & Privacy
 
@@ -134,9 +134,9 @@ Privacy Hub -> **Show VPN Alerts** -> ❌
 
 # Additional recommendations
 
-* Follow my iOS settings [here](https://codeberg.org/Magnesium1062/ios-settings).
+* Follow my iOS settings [here](https://codeberg.org/celenity/ios-settings).
 
-* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io/) configuration if you are able to *(See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings))*, otherwise I would recommend [Quad9](https://quad9.net/).
+* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io/) configuration if you are able to *(See my recommendations for NextDNS [here](https://codeberg.org/celenity/nextdns-settings))*, otherwise I would recommend [Quad9](https://quad9.net/).
 
 * Enable [Lockdown Mode](https://support.apple.com/105120).
 
